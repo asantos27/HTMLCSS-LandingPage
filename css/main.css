@@ -317,6 +317,7 @@ footer {
     z-index: 0;
     min-height: 330px;
     background-color: black;
+    flex-wrap: wrap;
 }
 
 footer:after{
@@ -363,7 +364,7 @@ footer a:hover {
     width: 23px;
     height: 23px;
     background-size: 23px 23px;
-    position: center;
+    background-position: center;
 }
 
 .twitter {
