@@ -108,6 +108,7 @@ section {
 }
 
 .search-button {
+    background-color: #a0a0a0;
     width: 100px;
     height: 30px;
     color: #ffffff;
@@ -117,7 +118,7 @@ section {
 
 .nav-list {
     padding-left: 0;
-    width: 575 px;
+    width: 575px;
     margin-top: 10px;
 }
 
